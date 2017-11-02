@@ -1,0 +1,2 @@
+# cmsbot
+auto generate articles
